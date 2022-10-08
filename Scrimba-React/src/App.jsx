@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./App.css";
 import Image from "./Components/Image";
 import Info from "./Components/Info";
 import Footer from "./Components/Footer";
