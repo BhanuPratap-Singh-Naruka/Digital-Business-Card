@@ -1,7 +1,4 @@
 const Info = () => {
-  const btn = document.getElementById("email-btn");
-  console.log(btn);
-
   return (
     <div className="info">
       <h3>Bhanu Pratap</h3>
